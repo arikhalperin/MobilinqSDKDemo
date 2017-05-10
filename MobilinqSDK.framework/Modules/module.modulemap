@@ -1,0 +1,6 @@
+framework module MobilinqSDK {
+  umbrella header "MobilinqSDK.h"
+
+  export *
+  module * { export * }
+}
